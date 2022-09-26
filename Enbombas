@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF: -1, LA LIGA
+http://271405536178165393.nicehos.xyz:80/mi08210/1452921364/165393
+#EXTINF: -1, DAZN LaLiga
+http://271405536178320792.nicehos.xyz:80/mi08210/1452921364/320792
+#EXTINF: -1, DAZN 1
+http://271405536178228385.nicehos.xyz:80/mi08210/1452921364/228385
+#EXTINF: -1, GOL TV ES
+http://642609336160321260.nicesbot.xyz:80/mi08210/1452921364/321260
+#EXTINF: -1, ESPN Arg
+https://usher.ttvnw.net/api/channel/hls/futbolparatodosnet.m3u8?allow_source=true&fast_bread=true&p=209696&play_session_id=8e21adadd98649e9d4cc68bfc6740ad3&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=12bf2e702fc7883785ee98838c8034c68e8f9346&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22futbolparatodosnet%22%2C%22channel_id%22%3A684980956%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22mFp3iHaDujfa0vvUTKXuisgZMwCg6Aoy%22%2C%22expires%22%3A1664218139%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2245.181.84.51%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.14.0
+#EXTINF: -1, ESPN 2 
+http://642609336160290672.nicesbot.xyz:80/mi08210/1452921364/290672
+#EXTINF: -1, ESPN3 ES
+http://642609336160321240.nicesbot.xyz:80/mi08210/1452921364/321240
+#EXTINF: -1, SKY PremierLeague
+http://271405536178301744.nicehos.xyz:80/mi08210/1452921364/301744
+#EXTINF: -1, BEIN XTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF: -1, BEIN XTRA Inglés
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF: -1, CLARO SPORTS
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF: -1,  LA 1
+http://510390936756321278.nicetin.xyz:80/live/mi08210/1452921364/321278.ts
+#EXTINF: -1, SPORTV +
+http://510390936756307817.nicetin.xyz:80/live/mi08210/1452921364/307817.ts
+#EXTINF: -1, SPORTV 1
+http://510390936756307822.nicetin.xyz:80/live/mi08210/1452921364/307822.ts
+#EXTINF: -1, SPORTV 2
+http://510390936756307826.nicetin.xyz:80/live/mi08210/1452921364/307826.ts
+#EXTINF: -1, SPORTV 3
+http://510390936756307830.nicetin.xyz:80/live/mi08210/1452921364/307830.ts
+#EXTINF: -1, SPORTV 4
+http://510390936756307835.nicetin.xyz:80/live/mi08210/1452921364/307835.ts
+
+
+
+
+
